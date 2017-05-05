@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maps>
+    <map mapid="1" apiKey="c0qzE6ZGGSeIDaZyHT0mt2ANdf6YKzZd" factoryName="BaiduMapFactory" isOpen="YES"/>
+    <map mapid="2" apiKey="20670f604e1ad7474ce7c214f17bbf96" factoryName="GaodeMapFactory" isOpen="NO"/>
+<!--    <map id="3" apiKey="" factoryName=""/>-->
+
+</maps>
+
+
+<!--baidu   c0qzE6ZGGSeIDaZyHT0mt2ANdf6YKzZd-->
+<!---->
+<!---->
+<!---->
+<!--[AMapServices sharedServices].apiKey =@"20670f604e1ad7474ce7c214f17bbf96";-->
